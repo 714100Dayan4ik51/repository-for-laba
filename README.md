@@ -33,8 +33,8 @@ laba №1 - 2 - вторая программа, вводите свои дан�
 
 ##### тест 1-ой программа
 
-[test 1](test 1.png)
+[test 1](https://github.com/714100Dayan4ik51/repository-for-laba/blob/main/test%201.png)
 
 ##### тесте 2-ой программы
 
-[test 2](test 2.png)
+[test 2](https://github.com/714100Dayan4ik51/repository-for-laba/blob/main/test%202.png)
